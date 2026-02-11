@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "アリア",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2026-02-11T14:11:44.559154Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Aria [アリア]",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/01_Aria_[アリア]_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アリア",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/02_アリア_BUMP_OF_CHICKEN.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アリア《離れずにそばにいて》",
+      "artist": "松司馬拓指揮 Ensemble FOVE(Tenor:工藤和真)",
+      "has_synced": true,
+      "path": "select/03_アリア《離れずにそばにいて》_松司馬拓指揮_Ensemble_FOVE(Tenor_工藤和真).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アリア - Air -",
+      "artist": "Miyuki Nakajima",
+      "has_synced": false,
+      "path": "select/04_アリア_-_Air_-_Miyuki_Nakajima.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アリア -Air-",
+      "artist": "中島みゆき",
+      "has_synced": false,
+      "path": "select/05_アリア_-Air-_中島みゆき.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アリア「離れずにそばにいて」",
+      "artist": "松司馬拓(指揮)/Ensemble FOVE(Tenor: 工藤和真)",
+      "has_synced": true,
+      "path": "select/06_アリア「離れずにそばにいて」_松司馬拓(指揮)_Ensemble_FOVE(Tenor__工藤和真).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "アリア",
+      "artist": "10-FEET",
+      "has_synced": true,
+      "path": "select/07_アリア_10-FEET.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "アリア",
+      "artist": "ChouCho",
+      "has_synced": false,
+      "path": "select/08_アリア_ChouCho.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "アリア -Air-",
+      "artist": "平原綾香",
+      "has_synced": true,
+      "path": "select/09_アリア_-Air-_平原綾香.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "アリア",
+      "artist": "Plastic Tree",
+      "has_synced": true,
+      "path": "select/10_アリア_Plastic_Tree.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "アリア",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/11_アリア_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アリア",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_アリア_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
